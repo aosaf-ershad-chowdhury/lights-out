@@ -9,14 +9,14 @@
                                 ========================================================                 
 
 
-                                                    About the project
+#About the project
 
 Lights out is puzzle game in which the objective is to, in essence, turn off all the lights in a given board. In this 
 implementation of the game, this would mean turning all values in the map/board to a 0 (except the borders(represented
 by an X)).
 
 
-                                            Getting Started (How to run the game)
+#Getting Started (How to run the game)
 
 First remember to maximize the size of the terminal. Our game is tailor made for the terminal in its maximum size. There
 -fore, to see all the animations properly, you should set the terminal in its maximum size.
@@ -34,7 +34,7 @@ If you are already a current user, you can directly log into the game by enterin
 successful, you will be entered into the game lobby after being shown an animation.
 
 
-                                                Usage (How to play the game)
+#Usage (How to play the game)
 
 After logging in, you will be shown a menu (game lobby) with 5 options. Type '1' to play the original levels(created by
 us!), '2' to play custom levels(created by your friends and peers), '3' to make your own game, '4' to check the
@@ -82,7 +82,7 @@ Here are the rules to play the game itself:
                                   10. Keep flipping lights until all the lights are turned off
 
 
-                                                      Acknowledgements
+#Acknowledgements
 
 Thank you to all the members of the group for their invaluable contribution to this challenging, yet entertaining 
 project.
