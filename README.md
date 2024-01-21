@@ -1,7 +1,5 @@
 # Lights Out
 
-## About the project
-
 Lights out is puzzle game in which the objective is to, in essence, turn off all the lights in a given board. In this 
 implementation of the game, this would mean turning all values in the map/board to a 0 (except the borders(represented
 by an X)).
